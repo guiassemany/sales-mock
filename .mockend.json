@@ -1,5 +1,5 @@
 {
-  "Sales": {
+  "Sale": {
     "sold_at": "date",
     "value": "int"
   }
